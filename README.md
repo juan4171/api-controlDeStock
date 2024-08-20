@@ -7,7 +7,7 @@ Este proyecto es una API REST creada con Django Rest Framework (DRF) en donde ha
 ## Características
 
 - La API permite crear, leer, actualizar y eliminar produtos y categorias de productos.
-- Filtrado, búsqueda y ordenación de tareas (proximamente).
+- Filtrado, búsqueda y ordenación de productos (proximamente).
 - Autenticación de usuarios (proximamente).
 
 ## Instalación
